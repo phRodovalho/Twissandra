@@ -1,8 +1,7 @@
 # Task 2
 ## Comandos Cassandra - criando  Twisssandra;
 
-![twissandra_model](C:\Users\pheli\Desktop\2 P 2021\TopEspBD\Laboratorio3\twissandra_model.png)
-
+![Alt text](https://github.com/phRodovalho/Twissandra/blob/main/twissandra_model.png)
 ```cassandra
 CREATE KEYSPACE twissandra WITH replication =  {'class': 'SimpleStrategy', 'replication_factor' : 1};
 
