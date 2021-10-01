@@ -1,5 +1,4 @@
-# Task 2
-## Comandos Cassandra - criando  Twisssandra;
+## Comandos Cassandra - criando  Twisssandra NoSQL;
 
 ![Alt text](https://github.com/phRodovalho/Twissandra/blob/main/twissandra_model.png)
 ```cassandra
